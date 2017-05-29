@@ -2,7 +2,7 @@ from datetime import datetime
 
 def is_it_time_to_eat():
 	print( datetime.now().isoformat() )
-	if (12 < datetime.now().hour and 14 > datetime.now().hour ) :
+	if (12 <= datetime.now().hour and 14 > datetime.now().hour ) :
 		return True
 	else:
 		return False

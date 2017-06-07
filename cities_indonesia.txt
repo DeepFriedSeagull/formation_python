@@ -1,0 +1,196 @@
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Jakarta","population":9588198}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Surabaya","population":2765487}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Bandung","population":2575478}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Bekasi","population":2510951}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Medan","population":2029797}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Tangerang","population":1798601}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Depok","population":1751696}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Semarang","population":1555984}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Palembang","population":1342258}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"South Tangerang","population":1290322}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sulawesi","name":"Makassar","population":1194583}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Batam","name":"Batam","population":1153860}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Pekanbaru","population":1030732}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Bogor","population":1022002}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Padang","population":1020880}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Bandar Lampung","population":923970}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Bali","name":"Denpasar","population":834881}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Malang","population":820243}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Kalimantan","name":"Samarinda","population":727500}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Tasikmalaya","population":635464}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Kalimantan","name":"Banjarmasin","population":625481}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Jambi","population":586930}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Serang","population":577785}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Cimahi","population":566200}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Kalimantan","name":"Balikpapan","population":557579}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Kalimantan","name":"Pontianak","population":501843}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Surakarta","population":499337}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Cilegon","population":416464}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sulawesi","name":"Manado","population":405715}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Lombok","name":"Mataram","population":402843}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Yogyakarta","population":388627}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Timor","name":"Kupang","population":336239}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Ambon","name":"Ambon","population":331254}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Sukabumi","population":298681}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Cirebon","population":298224}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sulawesi","name":"Palu","population":291872}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Dumai","population":291393}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Pekalongan","population":281434}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Kediri","population":268507}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Bengkulu","population":257763}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Tegal","population":239599}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Binjai","population":238209}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sulawesi","name":"Kendari","population":236269}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Pematang Siantar","population":229525}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Kalimantan","name":"Palangkaraya","population":220962}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Probolinggo","population":217062}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"New Guinea","name":"Jayapura","population":200524}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Kalimantan","name":"Banjarbaru","population":199627}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Tarakan","name":"Tarakan","population":193370}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Batu","population":190184}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Kalimantan","name":"Singkawang","population":186462}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Pasuruan","population":186262}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Ternate","name":"Ternate","population":185705}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"New Guinea","name":"Kota Sorong","population":184239}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Padang Sidempuan","population":178148}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Banjar","population":175910}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Lubuklinggau","population":174472}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Banda Aceh","population":174433}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sulawesi","name":"Bitung","population":173837}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Madiun","population":170964}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Salatiga","population":170332}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Bintan","name":"Tanjung Pinang","population":167958}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Cianjur","population":165420}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sulawesi","name":"Gorontalo","population":153036}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Lhokseumawe","population":152895}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Tanjung Balai","population":152272}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Bangka","name":"Pangkal Pinang","population":145945}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Kalimantan","name":"Bontang","population":143683}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumbawa","name":"Bima","population":142579}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"New Guinea","name":"Manokwari","population":136302}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Tebing Tinggi","population":134548}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Langsa","population":133600}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Blitar","population":132018}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sulawesi","name":"Palopo","population":129273}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Prabumulih","population":129201}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Metro","population":127569}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Gunungsitoli","population":125566}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Payakumbuh","population":122896}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Mojokerto","population":120196}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Buton","name":"Bau-Bau","population":118998}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Java","name":"Magelang","population":118227}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Bukittinggi","population":117097}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Pagar Alam","population":114609}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sulawesi","name":"Pare-Pare","population":112625}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sulawesi","name":"Kotamobagu","population":107459}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Sibolga","population":90489}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Tidore","name":"Tidore","population":90055}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Pariaman","population":83151}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Sungai Penuh","population":82619}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sulawesi","name":"Tomohon","population":80649}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Timor","name":"Atambua","population":74903}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Kalimantan","name":"Tenggarong","population":72458}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"New Guinea","name":"Merauke","population":71838}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Solok","population":62483}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Sawah Lunto","population":59821}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Kai","name":"Tual","population":58082}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Sumatra","name":"Padang Panjang","population":49451}
+{"index": {"_index":"indonesia","_type":"city" } }
+{"island":"Weh Island","name":"Sabang","population":28454}
